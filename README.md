@@ -1,3 +1,8 @@
+This repository is based on the original repository
+
+https://github.com/ClaudinaRattaro/Py5cheSim
+
+and extends it by adding features that facilitate the development of algorithms.
 
 # Py5cheSim
 
